@@ -1,3 +1,4 @@
+
 Amazon clone build using ReactJS and firebase.
 
 link: https://clone-a738f.web.app/
@@ -5,7 +6,7 @@ link: https://clone-a738f.web.app/
 
 
 
-
+All main files are in src folder
 
 
 
